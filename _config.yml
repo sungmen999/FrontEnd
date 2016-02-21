@@ -1,0 +1,4 @@
+name: Watcharapong Nanthasan
+exclude: ["node_modules", "gulpfile.js", "package.json"]
+kramdown:
+  input: GFM
